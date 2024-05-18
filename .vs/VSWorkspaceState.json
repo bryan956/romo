@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Auth-main",
+    "\\Auth-main\\src",
+    "\\Auth-main\\src\\auth",
+    "\\Auth-main\\src\\auth\\venv",
+    "\\Auth-main\\src\\auth\\venv\\bin"
+  ],
+  "SelectedNode": "\\Auth-main\\src\\auth\\venv\\bin\\Activate.ps1",
+  "PreviewInSolutionExplorer": false
+}
